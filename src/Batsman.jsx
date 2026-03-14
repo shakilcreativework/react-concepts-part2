@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const Batsman = () => {
     const [runs, setRuns] = useState(0);
-    console.log(runs);
+    // console.log(runs);
 
     return (
 

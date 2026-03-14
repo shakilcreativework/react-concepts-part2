@@ -1,0 +1,11 @@
+.card{
+    padding: 2rem;
+    border: 2px solid gold;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.read-the-docs{
+    color: #888;
+}
